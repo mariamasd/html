@@ -1,0 +1,168 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+  font-family:roboto ;  
+}
+header
+{
+    height: 120px;
+}
+.titre
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(209, 0, 0);
+    font-size: 20px;
+}
+h1
+{
+    float: left;
+    margin-top: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+nav
+{
+    float: right;
+    margin-top: 32px;
+margin-right: 42px ;
+}
+nav ul li  
+{
+    display:inline-block;
+    text-transform: uppercase;
+    justify-content:left
+}
+nav ul li a 
+{
+    text-decoration: none;
+    padding-left: 32px;
+    text-align: right;
+        
+}
+p
+{
+    text-align:justify;
+}
+h2
+{
+    text-align: center;
+    padding-top: 140px;
+    font-size: 42px;
+}
+#bienvenue
+{
+    height: 580px;
+    background:url("image.webp") center;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.sim
+{
+    text-align: center;
+    font-size: 42px;
+
+}
+.im
+{
+    display:inline;
+    
+}
+.clean
+{
+    clear: both;
+}
+#steps ul 
+{
+margin: 50px;
+}
+#steps ul li
+{
+width: 300px;
+float: left;
+padding-top: 10px;
+text-align: center;
+text-decoration: none;
+padding-right: 10px;
+
+
+}
+#steep-1
+{
+
+}
+#steep-2
+{
+    
+}
+#steep-3
+{
+    
+}
+p
+{
+    line-height: 20px;
+    color:#777;
+}
+h4
+{
+    font-size:24px ;
+    color :#444;
+}
+#steps h4
+{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    
+}
+#steps p
+{
+    margin-bottom: 20px;
+    justify-content:left;
+    padding-right:15px;
+}
+#jobs article
+{
+    width: 300px;
+    float: left;
+    padding-left: 80px;
+
+}
+#jobs article h4
+{
+    color: blue;
+}
+footer
+{
+    height: 320px;
+}
+#article1
+{
+    float: left;
+    padding-right: 15px;
+}
+form input 
+{
+    display: inline-block;
+    display: block;
+    border-radius: 15px;
+    border-style: outset blue;
+}
+/* footer */
+footer 
+{
+    float:left;
+}
+footer nav ul li
+{
+    float:left;
+    padding-left: 80px;
+}
+footer nav ul li h4
+{
+    color: blue;
+    display: flow-root;
+}
